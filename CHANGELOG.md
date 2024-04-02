@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## [5.6.1](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/compare/v5.6.0...v5.6.1) (2024-03-07)
+
+
+### Bug Fixes
+
+* Update CI workflow versions to remove deprecated runtime warnings ([#379](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/issues/379)) ([2c9e615](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/commit/2c9e6156d375cf6adcfef95198318556f19f08f7))
+
+## [5.6.0](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/compare/v5.5.0...v5.6.0) (2023-12-25)
+
+
+### Features
+
+* Support Private DNS name options ([#370](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/issues/370)) ([d3520fd](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/commit/d3520fd9afc35a2598604e4219ade15021960ba9))
+
 ## [5.5.0](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/compare/v5.4.0...v5.5.0) (2023-08-30)
 
 
